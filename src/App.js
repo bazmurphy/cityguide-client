@@ -3,11 +3,11 @@ import './App.css';
 
 function App() {
 
-  const [data, setData] = React.useState([])
+  // const [data, setData] = React.useState([])
 
-  useEffect(() => {
-    fetch("https://cyf-bazmurphy-cityguide.herokuapp.com")
-  })
+  // useEffect(() => {
+  //   fetch("https://cyf-bazmurphy-cityguide.herokuapp.com")
+  // })
 
   return (
     <div className="app-container">
